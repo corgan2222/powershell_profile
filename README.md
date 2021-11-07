@@ -21,5 +21,6 @@ print "oh-my-posh --init --shell pwsh --config C:\Users\admin\posh\sk.omp.json |
 ```
  
 based on the fantastic work from 
+- https://www.youtube.com/watch?v=VT2L1SXFq9U
 - https://gist.github.com/shanselman
 - https://gist.github.com/shanselman/25f5550ad186189e0e68916c6d7f44c3
